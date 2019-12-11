@@ -1,0 +1,1 @@
+insert into persons (id, first_name, last_name) values (1, 'Luke', 'Skywalker');
